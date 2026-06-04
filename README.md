@@ -1,7 +1,6 @@
 # Productivity Prediction of Garment Employees
 
-**Tool:** Stata &nbsp;|&nbsp; **Method:** OLS Regression, Interaction Terms, Robust Standard Errors, General-to-Specific Modeling &nbsp;|&nbsp; **Course:** ECON 521 — Econometrics, University of South Dakota
-
+**Tool:** Stata &nbsp;|&nbsp; **Method:** OLS Regression, Interaction Terms, Robust Standard Errors, General-to-Specific Modeling &nbsp;|&nbsp;
 ---
 
 ## Overview
