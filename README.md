@@ -1,6 +1,6 @@
 # Productivity Prediction of Garment Employees
 
-**Tool:** Stata &nbsp;|&nbsp; **Method:** OLS Regression, Interaction Terms, Robust Standard Errors, General-to-Specific Modeling &nbsp;|&nbsp;
+**Tool:** Stata &nbsp;|&nbsp; **Method:** OLS Regression, Interaction Terms, Robust Standard Errors, General-to-Specific Modeling &nbsp;
 ---
 
 ## Overview
